@@ -1,3 +1,6 @@
 # Socket-Server-Template
 Forked from Websocket Node Server Template by Torin Blankensmith.
-This server is used for real-time updates between TouchDesigner and the Where's Wally web app for L&M wedding guests.
+This is used for establishing websocket connections between TouchDesigner and web applications. 
+
+> [!NOTE]
+> Archived because it's not required in the final implementation of the Where's Wally project.
